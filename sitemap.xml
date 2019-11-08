@@ -93,12 +93,12 @@
   </url>
   
   <url>
-    <loc>/publication/preprint1/</loc>
+    <loc>/working/preprint1/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint2/</loc>
+    <loc>/working/preprint2/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,7 +113,12 @@
   </url>
   
   <url>
-    <loc>/publication/preprint3/</loc>
+    <loc>/working/preprint3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/working/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   

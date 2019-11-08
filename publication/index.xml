@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Roman Senninger</title>
+    <title>Publications | Roman Senninger</title>
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
+    <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/aarhus.png</url>
-      <title>Research</title>
+      <title>Publications</title>
       <link>/publication/</link>
     </image>
     
@@ -25,30 +25,6 @@
       <link>/publication/journal-article6/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do Voters Want Domestic Politicians to Scrutinize the EU?</title>
-      <link>/publication/preprint1/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Transnational Party Alliances Influence National Parties’ Policies</title>
-      <link>/publication/preprint2/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meet the Critics: The Regulatory Scrutiny Board in EU Policy Preparation</title>
-      <link>/publication/preprint3/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint3/</guid>
       <description></description>
     </item>
     
