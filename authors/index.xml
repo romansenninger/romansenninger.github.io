@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Roman Senninger</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/aarhus.png</url>
       <title>Authors</title>
@@ -15,16 +15,48 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>/authors/robert-ford/</link>
+      <title>Daniel Bischof</title>
+      <link>/authors/daniel-bischof/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-bischof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio Wolkenstein</title>
+      <link>/authors/fabio-wolkenstein/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fabio-wolkenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jens Blom-Hansen</title>
+      <link>/authors/jens-blom-hansen/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jens-blom-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lawrence Ezrow</title>
+      <link>/authors/lawrence-ezrow/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lawrence-ezrow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Wagner</title>
+      <link>/authors/markus-wagner/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/robert-ford/</guid>
+      <guid>/authors/markus-wagner/</guid>
       <description></description>
     </item>
     

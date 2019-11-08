@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Blom-Hansen | Roman Senninger</title>
+    <link>/authors/jens-blom-hansen/</link>
+      <atom:link href="/authors/jens-blom-hansen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jens Blom-Hansen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/aarhus.png</url>
+      <title>Jens Blom-Hansen</title>
+      <link>/authors/jens-blom-hansen/</link>
+    </image>
+    
+    <item>
+      <title>Meet the Critics: The Regulatory Scrutiny Board in EU Policy Preparation</title>
+      <link>/publication/preprint3/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
