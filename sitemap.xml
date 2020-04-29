@@ -34,16 +34,51 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jens-blom-hansen/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article8/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anne-binderkrantz/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article7/</loc>
+    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,27 +88,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/working/</loc>
     <lastmod>2020-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/journal-article5/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,17 +133,7 @@
   </url>
   
   <url>
-    <loc>/authors/jens-blom-hansen/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/lawrence-ezrow/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/working/preprint3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
