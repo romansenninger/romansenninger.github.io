@@ -5,20 +5,12 @@
     <link>/working/</link>
       <atom:link href="/working/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/aarhus.png</url>
       <title>Working Papers</title>
       <link>/working/</link>
     </image>
-    
-    <item>
-      <title>Citizen Responses to European Funding at the Local Level</title>
-      <link>/working/preprint4/</link>
-      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/working/preprint4/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Do Voters Want Domestic Politicians to Scrutinize the EU?</title>
