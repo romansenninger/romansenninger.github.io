@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/aarhus.png</url>
       <title>Authors</title>
@@ -15,8 +15,16 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jens Blom-Hansen</title>
+      <link>/authors/jens-blom-hansen/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jens-blom-hansen/</guid>
       <description></description>
     </item>
     
@@ -25,14 +33,6 @@
       <link>/authors/anne-binderkrantz/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/authors/anne-binderkrantz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jens Blom-Hansen</title>
-      <link>/authors/jens-blom-hansen/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jens-blom-hansen/</guid>
       <description></description>
     </item>
     
