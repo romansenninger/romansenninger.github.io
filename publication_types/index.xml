@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Roman Senninger</title>
-    <link>romansenninger.github.io/publication_types/</link>
-      <atom:link href="romansenninger.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>romansenninger.github.io/img/aarhus.png</url>
+      <url>/img/aarhus.png</url>
       <title>Publication_types</title>
-      <link>romansenninger.github.io/publication_types/</link>
+      <link>/publication_types/</link>
     </image>
     
     <item>
       <title>2</title>
-      <link>romansenninger.github.io/publication_types/2/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>romansenninger.github.io/publication_types/2/</guid>
+      <link>/publication_types/2/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>6</title>
-      <link>romansenninger.github.io/publication_types/6/</link>
+      <link>/publication_types/6/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>romansenninger.github.io/publication_types/6/</guid>
+      <guid>/publication_types/6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3</title>
-      <link>romansenninger.github.io/publication_types/3/</link>
+      <link>/publication_types/3/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>romansenninger.github.io/publication_types/3/</guid>
+      <guid>/publication_types/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>7</title>
-      <link>romansenninger.github.io/publication_types/7/</link>
+      <link>/publication_types/7/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>romansenninger.github.io/publication_types/7/</guid>
+      <guid>/publication_types/7/</guid>
       <description></description>
     </item>
     
