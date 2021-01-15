@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Roman Senninger</title>
-    <link>/publication_types/7/</link>
-      <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>romansenninger.github.io/publication_types/7/</link>
+      <atom:link href="romansenninger.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/aarhus.png</url>
+      <url>romansenninger.github.io/img/aarhus.png</url>
       <title>7</title>
-      <link>/publication_types/7/</link>
+      <link>romansenninger.github.io/publication_types/7/</link>
     </image>
     
     <item>
       <title>Political Parties and Parliamentary EU Oversight</title>
-      <link>/publication/dissertation/</link>
+      <link>romansenninger.github.io/publication/dissertation/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/dissertation/</guid>
+      <guid>romansenninger.github.io/publication/dissertation/</guid>
       <description></description>
     </item>
     
