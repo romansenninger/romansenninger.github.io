@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Roman Senninger</title>
+    <link>romansenninger.github.io/authors/</link>
+      <atom:link href="romansenninger.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>romansenninger.github.io/img/aarhus.png</url>
+      <title>Authors</title>
+      <link>romansenninger.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>romansenninger.github.io/authors/admin/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Bischof</title>
+      <link>romansenninger.github.io/authors/daniel-bischof/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/daniel-bischof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lawrence Ezrow</title>
+      <link>romansenninger.github.io/authors/lawrence-ezrow/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/lawrence-ezrow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jens Blom-Hansen</title>
+      <link>romansenninger.github.io/authors/jens-blom-hansen/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/jens-blom-hansen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Binderkrantz</title>
+      <link>romansenninger.github.io/authors/anne-binderkrantz/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/anne-binderkrantz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Finke</title>
+      <link>romansenninger.github.io/authors/daniel-finke/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/daniel-finke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabio Wolkenstein</title>
+      <link>romansenninger.github.io/authors/fabio-wolkenstein/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/fabio-wolkenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markus Wagner</title>
+      <link>romansenninger.github.io/authors/markus-wagner/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>romansenninger.github.io/authors/markus-wagner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
