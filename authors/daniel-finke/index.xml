@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Finke | Roman Senninger</title>
-    <link>romansenninger.github.io/authors/daniel-finke/</link>
-      <atom:link href="romansenninger.github.io/authors/daniel-finke/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/daniel-finke/</link>
+      <atom:link href="/authors/daniel-finke/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Finke</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>romansenninger.github.io/img/aarhus.png</url>
+      <url>/img/aarhus.png</url>
       <title>Daniel Finke</title>
-      <link>romansenninger.github.io/authors/daniel-finke/</link>
+      <link>/authors/daniel-finke/</link>
     </image>
     
     <item>
       <title>Coordination inside government administrations: Lessons from the EU Commission</title>
-      <link>romansenninger.github.io/publication/journal-article9/</link>
+      <link>/publication/journal-article9/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>romansenninger.github.io/publication/journal-article9/</guid>
+      <guid>/publication/journal-article9/</guid>
       <description></description>
     </item>
     
