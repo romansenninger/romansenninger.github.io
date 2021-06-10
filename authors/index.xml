@@ -5,7 +5,7 @@
     <link>https://romansenninger.github.io/authors/</link>
       <atom:link href="https://romansenninger.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://romansenninger.github.io/img/aarhus.png</url>
       <title>Authors</title>
@@ -15,8 +15,16 @@
     <item>
       <title></title>
       <link>https://romansenninger.github.io/authors/admin/</link>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://romansenninger.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jens Blom-Hansen</title>
+      <link>https://romansenninger.github.io/authors/jens-blom-hansen/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://romansenninger.github.io/authors/jens-blom-hansen/</guid>
       <description></description>
     </item>
     
@@ -25,14 +33,6 @@
       <link>https://romansenninger.github.io/authors/anne-binderkrantz/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://romansenninger.github.io/authors/anne-binderkrantz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jens Blom-Hansen</title>
-      <link>https://romansenninger.github.io/authors/jens-blom-hansen/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://romansenninger.github.io/authors/jens-blom-hansen/</guid>
       <description></description>
     </item>
     
