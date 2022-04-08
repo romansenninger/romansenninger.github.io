@@ -11,12 +11,24 @@
     
     
     <item>
+      <title>Publications</title>
+      <link>https://romansenninger.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romansenninger.github.io/publications/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
       <title>Roman Senninger</title>
       <link>https://romansenninger.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://romansenninger.github.io/about/</guid>
-      <description>I am an Associate Professor of Political Science at Aarhus University.</description>
+      <description>I am an Associate Professor of Political Science at Aarhus University. My research focuses on political elites and political institutions in domestic and European Union politics.
+Methodologically, I have a strong interest in (quasi)-experiments, computational text analysis, and spatial and geograhic data analysis.
+Email: rsenninger@ps.au.dk
+Twitter: @r_senninger</description>
     </item>
     
     <item>
