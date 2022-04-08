@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roman Senninger</title>
+    <title>Roman Senninger on </title>
     <link>https://romansenninger.github.io/</link>
-    <description>Recent content on Roman Senninger</description>
+    <description>Recent content in Roman Senninger on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,12 +11,12 @@
     
     
     <item>
-      <title></title>
+      <title>Roman Senninger</title>
       <link>https://romansenninger.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://romansenninger.github.io/about/</guid>
-      <description>I am an Associate Professor of Political Science at Aarhus University. I study [XY].</description>
+      <description>I am an Associate Professor of Political Science at Aarhus University.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://romansenninger.github.io/workingpapers/</guid>
-      <description> What Makes Policy Complex? </description>
+      <description> What Makes Policy Complex? How Simple Messages Affect Voters&amp;rsquo; Knowledge and Their Perceptions of Politicians - Evidence From a Large-Scale Survey Experiment (w/ Daniel Bischof) Do Citizens Reward European Union Funding? Evidence from Three Local Studies </description>
     </item>
     
   </channel>
