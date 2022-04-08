@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roman Senninger</title>
+    <link>https://romansenninger.github.io/</link>
+    <description>Recent content on Roman Senninger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://romansenninger.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://romansenninger.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romansenninger.github.io/about/</guid>
+      <description>I am an Associate Professor of Political Science at Aarhus University. I study [XY].</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://romansenninger.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romansenninger.github.io/teaching/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>https://romansenninger.github.io/workingpapers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://romansenninger.github.io/workingpapers/</guid>
+      <description> What Makes Policy Complex? </description>
+    </item>
+    
+  </channel>
+</rss>
