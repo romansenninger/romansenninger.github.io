@@ -5,11 +5,7 @@
     <link>https://romansenninger.github.io/</link>
     <description>Recent content on Roman Senninger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://romansenninger.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://romansenninger.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data</title>
       <link>https://romansenninger.github.io/blog/</link>
@@ -25,9 +21,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://romansenninger.github.io/publications/</guid>
-      <description>Journal Articles  Senninger, Roman (forthcoming) What Makes Policy Complex?, Political Science Research and Methods (conditionally accepted)
- Senninger, Roman and Daniel Bischof (2023) Do Voters Want Domestic Politicians to Scrutinize the European Union?, Political Science Research and Methods, Vol 11, Issue 2, 410-418.
- Senninger, Roman, Daniel Bischof and Lawrence Ezrow (2022) How Transnational Party Alliances Influence National Parties&amp;rsquo; Policies, Political Science Research and Methods, Vol 10, Issue 3, 651-658.</description>
+      <description>Journal Articles Senninger, Roman (forthcoming) What Makes Policy Complex?, Political Science Research and Methods (conditionally accepted)
+Senninger, Roman and Daniel Bischof (2023) Do Voters Want Domestic Politicians to Scrutinize the European Union?, Political Science Research and Methods, Vol 11, Issue 2, 410-418.
+Senninger, Roman, Daniel Bischof and Lawrence Ezrow (2022) How Transnational Party Alliances Influence National Parties&amp;rsquo; Policies, Political Science Research and Methods, Vol 10, Issue 3, 651-658.
+Senninger, Roman and Jens Blom-Hansen (2021) Meet the Critics: Analyzing the EU Commission’s Regulatory Scrutiny Board through Quantitative Text Analysis, Regulation &amp;amp; Governance, Vol 15, Issue 4, 1436-1453.</description>
     </item>
     
     <item>
@@ -39,7 +36,7 @@
       <description>I am an Associate Professor of Political Science at Aarhus University. My research focuses on political elites and political institutions in domestic and European Union politics.
 Methodologically, I have a strong interest in (quasi-) experiments, computational text analysis, and spatial and geographic data analysis.
 I hold a Semper Ardens Accelerate Grant from the Carlsberg Foundation for the project &amp;lsquo;How and Why Politicians Learn From Policies from Abroad&amp;rsquo;.
-Email: rsenninger@ps.</description>
+Email: rsenninger@ps.au.dk</description>
     </item>
     
     <item>
@@ -48,7 +45,7 @@ Email: rsenninger@ps.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://romansenninger.github.io/teaching/</guid>
-      <description> Spring 2023 Policy Evaluation Fall 2022 The Role of Space and Geography in Politics: Theory, Method, and Application Summer 2022 Summer School of the ECPR Standing Group on Political Parties Spring 2022 Policy Evaluation </description>
+      <description>Spring 2023 Policy Evaluation Fall 2022 The Role of Space and Geography in Politics: Theory, Method, and Application Summer 2022 Summer School of the ECPR Standing Group on Political Parties Spring 2022 Policy Evaluation </description>
     </item>
     
     <item>
@@ -57,7 +54,7 @@ Email: rsenninger@ps.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://romansenninger.github.io/workingpapers/</guid>
-      <description> What Makes Politicians Attend to Societal Problems? Evidence from a Field Experiment and Interviews (w/ Henrik Seeberg) Simplifying Politics: The Impact of Linguistic Style on Citizens&amp;rsquo; Political Knowledge and Beliefs About Politicians (w/ Daniel Bischof) Do Citizens Reward European Union Funding? Evidence from Three Local Studies Unsuccessful candidates are more concerned about electoral fairness than election winners (w/ Martin Bækgaard and Henrik Seeberg) </description>
+      <description>Simplifying Politics: The Impact of Linguistic Style on Citizens&amp;rsquo; Political Knowledge and Beliefs About Politicians (w/ Daniel Bischof, R&amp;amp;R at Journal of Politics) What Makes Politicians Attend to Societal Problems? Evidence from a Field Experiment and Interviews (w/ Henrik Seeberg) Do Citizens Reward European Union Funding? Evidence from Three Local Studies Unsuccessful candidates are more concerned about electoral fairness than election winners (w/ Martin Bækgaard and Henrik Seeberg) </description>
     </item>
     
   </channel>
